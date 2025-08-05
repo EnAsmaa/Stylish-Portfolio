@@ -214,10 +214,7 @@ header i{
     border-color: #313131;
 }
 /* footer */
-.icons
-{
-    width: 18%;
-}
+
 .icons i
 {
     background-color: var(--main-color);
@@ -259,4 +256,5 @@ header i{
     {
         background-color: rgba(33, 110, 161,0.8);
     }
+
 }
